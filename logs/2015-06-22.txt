@@ -1,0 +1,32 @@
+Time : 17:47:46
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 16:15:12
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 16:15:10
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 16:15:01
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 15:44:52
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 07:23:28
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 07:22:53
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id

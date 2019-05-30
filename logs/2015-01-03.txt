@@ -1,0 +1,7 @@
+Time : 08:48:04
+SQLSTATE[HY000]: General error: 2031 
+Raw SQL : SELECT endTime FROM bang where id = :id
+
+Time : 05:10:48
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'

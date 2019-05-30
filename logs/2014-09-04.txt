@@ -1,0 +1,55 @@
+Time : 17:22:17
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:55
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:55
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:55
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:54
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:54
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:54
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:54
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:54
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:46
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:34
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 17:21:26
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 04:11:10
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 03:53:41
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id

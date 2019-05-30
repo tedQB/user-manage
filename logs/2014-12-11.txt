@@ -1,0 +1,39 @@
+Time : 16:23:10
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 16:22:37
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 16:21:25
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 16:21:24
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 16:21:24
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 16:19:58
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 15:45:46
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 15:45:44
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 15:45:29
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 15:16:57
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id

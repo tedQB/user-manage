@@ -1,0 +1,38 @@
+Time : 19:52:06
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 18:24:26
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 18:04:35
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'score1' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 18:04:32
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'score1' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 18:04:18
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'score1' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 10:53:34
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 00:52:58
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 00:52:25
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)

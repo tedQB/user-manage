@@ -1,0 +1,4 @@
+Time : 14:30:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  huibao(weixinName,) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:date)

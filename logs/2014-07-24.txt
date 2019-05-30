@@ -1,0 +1,154 @@
+Time : 10:18:27
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 10:18:27
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 04:22:52
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 04:14:52
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 04:07:23
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:56:53
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:55:45
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:55:14
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:53:27
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:44:12
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:29:45
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:29:20
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:28:19
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:28:10
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:27:47
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:27:11
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:27:02
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:26:12
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:25:47
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:25:36
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:25:04
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:24:20
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:23:47
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:22:48
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:21:20
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:19:28
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:19:02
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:18:31
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:18:26
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:18:03
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 03:16:11
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 02:18:42
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:53:16
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:50:24
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:49:57
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:49:31
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:48:33
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:42:14
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:40:02
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:39:31
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:39:20
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:39:12
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:35:09
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:11:43
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:10:29
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 01:08:06
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 00:50:21
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 00:49:52
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 00:42:22
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 00:41:16
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)
+
+Time : 00:40:48
+SQLSTATE[HY000] [2003] Can't connect to MySQL server on '59.188.183.6' (10060)

@@ -1,0 +1,5 @@
+Time : 16:49:02
+SQLSTATE[HY000] [2006] MySQL server has gone away
+
+Time : 16:48:48
+SQLSTATE[HY000] [2006] MySQL server has gone away

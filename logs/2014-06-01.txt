@@ -1,0 +1,49 @@
+Time : 06:38:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'groups' in 'field list'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,groups) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:groups)
+
+Time : 06:38:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:37:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:33:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:32:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:29:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:28:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:group)
+
+Time : 06:28:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group) VALUES(?,?,?,?,?,?,?,?,group)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,group) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,group)
+
+Time : 06:27:12
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime)
+
+Time : 06:27:08
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime)

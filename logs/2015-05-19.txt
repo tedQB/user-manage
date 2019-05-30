@@ -1,0 +1,19 @@
+Time : 17:41:24
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 17:40:55
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 16:39:23
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)
+
+Time : 15:11:06
+SQLSTATE[HY000]: General error: 1406 Data too long for column 'cont6' at row 1
+Raw SQL : INSERT INTO
+		  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)

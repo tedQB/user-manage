@@ -1,0 +1,43 @@
+Time : 08:40:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'key1' in 'field list'
+Raw SQL : SELECT key1 FROM sheet1
+
+Time : 08:40:44
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'key1' in 'field list'
+Raw SQL : SELECT key1 FROM sheet1
+
+Time : 08:40:43
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'key1' in 'field list'
+Raw SQL : SELECT key1 FROM sheet1
+
+Time : 08:26:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firstname' in 'where clause'
+Raw SQL : SELECT * FROM sheet2 WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firstname' in 'where clause'
+Raw SQL : SELECT * FROM sheet2 WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'firstname' in 'where clause'
+Raw SQL : SELECT * FROM sheet2 WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:06
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiesetest.persons' doesn't exist
+Raw SQL : SELECT * FROM Persons WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:06
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiesetest.persons' doesn't exist
+Raw SQL : SELECT * FROM Persons WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiesetest.persons' doesn't exist
+Raw SQL : SELECT * FROM Persons WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:05
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiesetest.persons' doesn't exist
+Raw SQL : SELECT * FROM Persons WHERE firstname = :firstname AND id = :id
+
+Time : 08:26:04
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiesetest.persons' doesn't exist
+Raw SQL : SELECT * FROM Persons WHERE firstname = :firstname AND id = :id

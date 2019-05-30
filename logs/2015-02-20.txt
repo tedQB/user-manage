@@ -1,0 +1,3 @@
+Time : 05:29:02
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'

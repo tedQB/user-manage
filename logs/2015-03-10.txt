@@ -1,0 +1,4 @@
+Time : 15:32:53
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x98\x98' for column 'cont4' at row 1
+Raw SQL : INSERT INTO
+	  huibao(weixinName,cont1,score1,cont2,score2,cont3,score3,cont4,score4,cont5,score5,cont6,score6,cont7,score7,sum,subDate) VALUES(:weixinName,:cont1,:score1,:cont2,:score2,:cont3,:score3,:cont4,:score4,:cont5,:score5,:cont6,:score6,:cont7,:score7,:sum,:subDate)

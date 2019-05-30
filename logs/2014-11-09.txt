@@ -1,0 +1,7 @@
+Time : 04:22:07
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 04:22:05
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id

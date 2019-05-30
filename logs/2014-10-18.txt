@@ -1,0 +1,11 @@
+Time : 15:45:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isShow' in 'field list'
+Raw SQL : UPDATE bang SET isShow = :isShow WHERE id = :id
+
+Time : 15:44:56
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isShow' in 'field list'
+Raw SQL : UPDATE bang SET isShow = :isShow WHERE id = :id
+
+Time : 15:08:14
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id

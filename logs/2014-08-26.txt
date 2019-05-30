@@ -1,0 +1,7 @@
+Time : 12:00:45
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'peopleHeight' at row 1
+Raw SQL : UPDATE bang SET peopleHeight = :peopleHeight  WHERE id = :id
+
+Time : 12:00:39
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'peopleHeight' at row 1
+Raw SQL : UPDATE bang SET peopleHeight = :peopleHeight  WHERE id = :id

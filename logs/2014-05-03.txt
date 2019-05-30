@@ -1,0 +1,52 @@
+Time : 11:37:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id desc' at line 1
+Raw SQL : SELECT * FROM bang order id desc
+
+Time : 11:37:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id desc' at line 1
+Raw SQL : SELECT * FROM bang order id desc
+
+Time : 11:37:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'artist_id desc' at line 1
+Raw SQL : SELECT * FROM bang order artist_id desc
+
+Time : 10:33:04
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE bang SET leftTime = :left WHERE id = :id
+
+Time : 10:32:23
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE bang SET leftTime = :left WHERE id = :id
+
+Time : 09:43:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)
+
+Time : 09:41:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)
+
+Time : 09:40:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 2
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)
+
+Time : 09:32:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 3
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)
+
+Time : 09:30:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 3
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)
+
+Time : 09:28:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':,?)' at line 3
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName:,:leftTime)

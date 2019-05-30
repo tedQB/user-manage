@@ -1,0 +1,44 @@
+Time : 17:26:22
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:21
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:20
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:19
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:18
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:17
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:26:12
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wangye.users' doesn't exist
+Raw SQL : select username, userflag from users where username = 'kasia' and passcode = '79248860'
+
+Time : 17:14:06
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 17:13:16
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 17:12:44
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

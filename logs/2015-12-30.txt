@@ -1,0 +1,47 @@
+Time : 12:10:08
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'liyi6942' in 'where clause'
+Raw SQL : SELECT subDate FROM huibao where weixinName=liyi6942 and TO_DAYS(CURDATE()) - TO_DAYS(subDate) <= 30
+
+Time : 12:06:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'liyi6942' in 'where clause'
+Raw SQL : SELECT subDate FROM huibao where weixinName=liyi6942 and TO_DAYS(CURDATE()) - TO_DAYS(subDate) <= 30
+
+Time : 12:06:31
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:05:13
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:04:50
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:02:56
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:02:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'liyi6942' in 'where clause'
+Raw SQL : SELECT subDate FROM huibao where weixinName=liyi6942 and TO_DAYS(CURDATE()) - TO_DAYS(subDate) <= 30
+
+Time : 12:02:21
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'liyi6942' in 'where clause'
+Raw SQL : SELECT subDate FROM huibao where weixinName=liyi6942 and TO_DAYS(CURDATE()) - TO_DAYS(subDate) <= 30
+
+Time : 12:02:06
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:01:39
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:00:50
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 12:00:08
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id

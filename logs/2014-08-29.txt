@@ -1,0 +1,4 @@
+Time : 12:46:53
+SQLSTATE[HY000]: General error: 1364 Field 'idhui' doesn't have a default value
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName,leftTime,groups) VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName,:leftTime,:groups)

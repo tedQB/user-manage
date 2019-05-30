@@ -1,0 +1,2 @@
+Time : 12:02:34
+SQLSTATE[HY000] [2006] MySQL server has gone away

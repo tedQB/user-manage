@@ -1,0 +1,63 @@
+Time : 17:36:00
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:35:59
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:35:54
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:35:52
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:35:49
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:34:34
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:34:19
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:34:06
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:34:05
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:34:01
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:43
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:40
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:39
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:22
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:17
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 17:33:09
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id

@@ -1,0 +1,3 @@
+Time : 10:16:42
+SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query
+Raw SQL : SELECT subDate FROM huibao where weixinName=1186530732 and TO_DAYS(CURDATE()) - TO_DAYS(subDate) <= 30

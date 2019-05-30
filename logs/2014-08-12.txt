@@ -1,0 +1,15 @@
+Time : 17:16:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where leftTime > 0' at line 1
+Raw SQL : SELECT * FROM bang ORDER BY id desc where leftTime > 0
+
+Time : 17:16:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where leftTime>0' at line 1
+Raw SQL : SELECT * FROM bang ORDER BY id desc where leftTime>0
+
+Time : 16:26:19
+SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+
+
+Time : 16:25:57
+SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+

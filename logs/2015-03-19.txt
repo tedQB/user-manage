@@ -1,0 +1,27 @@
+Time : 12:26:34
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:26:34
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:26:21
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:25:28
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:24:50
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:24:44
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id
+
+Time : 12:24:42
+SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\xAA' for column 'declaration' at row 1
+Raw SQL : UPDATE bang SET declaration = :declaration  WHERE id = :id

@@ -1,0 +1,29 @@
+Time : 18:37:30
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'peopleHeight' at row 1
+Raw SQL : UPDATE bang SET peopleHeight = :peopleHeight  WHERE id = :id
+
+Time : 18:37:26
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'peopleHeight' at row 1
+Raw SQL : UPDATE bang SET peopleHeight = :peopleHeight  WHERE id = :id
+
+Time : 18:36:44
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 18:36:22
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 18:36:11
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 18:35:57
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 17:43:51
+SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+Time : 17:43:43
+SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

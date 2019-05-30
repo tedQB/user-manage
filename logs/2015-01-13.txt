@@ -1,0 +1,22 @@
+Time : 17:19:33
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 13:47:35
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 10:17:17
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: '' for column 'pojieTime' at row 1
+Raw SQL : UPDATE bang SET pojieTime = :pojieTime  WHERE id = :id
+
+Time : 10:13:01
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+
+Time : 10:12:45
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id
+Time : 10:12:45
+SQLSTATE[HY000]: General error: 1292 Incorrect datetime value: 'NaN-NaN-NaN' for column 'endTime' at row 1
+Raw SQL : UPDATE bang SET endTime = :endTime  WHERE id = :id

@@ -1,0 +1,35 @@
+Time : 17:49:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5476' for key 'PRIMARY'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
+
+Time : 17:49:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5476' for key 'PRIMARY'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
+
+Time : 17:05:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
+
+Time : 16:39:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
+
+Time : 16:39:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO
+  bang(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
+
+Time : 16:37:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'weixinName' in 'field list'
+Raw SQL : INSERT INTO
+  test(weixinName,name,luruTime,jieseTime,state,endTime,nickName)
+  VALUES(:weixinName,:name,:luruTime,:jieseTime,:state,:endTime,:nickName)
