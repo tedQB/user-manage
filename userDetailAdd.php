@@ -38,11 +38,11 @@
 			   	<input type="text" class="form-control" id="name" value="<?=$person['name']?>" />
 			  </div>
 			  <div class="input-group">
-			    <label for="nickName" class="input-group-addon">戒色榜姓名</label>
+			    <label for="nickName" class="input-group-addon">养生榜姓名</label>
 			    <input type="text" class="form-control" id="nickName" value="<?=$person['nickName']?>" />
 			  </div>
 			  <div class="input-group">
-			    <label for="declaration" class="input-group-addon">戒色宣言</label>
+			    <label for="declaration" class="input-group-addon">养生宣言</label>
 			    <input type="text" class="form-control" id="declaration" value="<?=$person['declaration']?>"/>
 			  </div>			  
 			  <!--

@@ -55,17 +55,17 @@
 		 </div>				
 		<div>
 		  <div class="input-group">
-			<label for="">6.今天有可以分享的戒色/生活/学习/工作感悟吗，或者我今天看到，接触了什么新的事和物让我有心得体会？</label>
+			<label for="">6.今天有可以分享的养生/生活/学习/工作感悟吗，或者我今天看到，接触了什么新的事和物让我有心得体会？</label>
 			<input type="text" class="form-control" id="" placeholder="若没有，你证明你今天过的一点都没有积累" />
 		  </div>				
 		</div>
 		<div>
 		  <div class="input-group">
-			<label for="">7.今天是否想看了戒色文章，是否帮助了别人，为戒色事业做了贡献？是否听闻，接触了正能量的事情，是否展示了自己的正能量？</label>
+			<label for="">7.今天是否想看了养生文章，是否帮助了别人，为养生事业做了贡献？是否听闻，接触了正能量的事情，是否展示了自己的正能量？</label>
 			<input type="text" class="form-control" id="" placeholder="一切能够推动社会进步，能够照亮人心，让别人主动感恩的的事情都叫正能量" />
 		  </div>				
 		</div>			
-		<button type="button" class="btn btn-danger" id="control">生成戒色日报</button>
+		<button type="button" class="btn btn-danger" id="control">生成养生日报</button>
 		<span id="control2" style="display:none; color:red; ">请手动复制以下日报，帮助小戒顶贴一次，然后发微信给小戒</span>
 		<div id="out">
 			

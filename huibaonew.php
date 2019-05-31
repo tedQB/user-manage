@@ -88,7 +88,7 @@
 		   <div class="radio-group">
 		   	<strong style="color:red; ">请务必选择自评分数</strong>
 			<label>
-			  <input type="radio" name="three-radio" value="10">【优10分】我一点都没有接触黄源，并且也有学习戒色知识和帮助别人
+			  <input type="radio" name="three-radio" value="10">【优10分】我一点都没有接触黄源，并且也有学习养生知识和帮助别人
 			</label>
 			<label>
 			  <input type="radio" name="three-radio" value="5">【中5分】我接触了黄源，但用方法马上止住，并遵守了2倍法则
@@ -139,13 +139,13 @@
 		 </div>				
 		<div>
 		  <div class="input-group">
-			<label for="">6.今天有可以分享的戒色/生活/学习/工作感悟吗，或者我今天看到，接触了什么新的事和物让我有心得体会？</label>
+			<label for="">6.今天有可以分享的养生/生活/学习/工作感悟吗，或者我今天看到，接触了什么新的事和物让我有心得体会？</label>
 			<input type="text" class="form-control store" id="six" placeholder="若没有，你证明你今天过的一点都没有积累" />
 		  </div>		
 		   <div class="radio-group">
 		   	<strong style="color:red; ">请务必选择自评分数</strong>
 			<label>
-			  <input type="radio" name="six-radio" value="20">【优20分】我向小戒发送了140字(微博长度)以上的戒色/生活/学习/工作感悟，能够指导自己以后的生活轨迹。
+			  <input type="radio" name="six-radio" value="20">【优20分】我向小戒发送了140字(微博长度)以上的养生/生活/学习/工作感悟，能够指导自己以后的生活轨迹。
 			</label>			
 			<label>
 			  <input type="radio" name="six-radio" value="10">【中10分】我向小戒发送了生活感悟，但很少，没超过140字
@@ -157,7 +157,7 @@
 		</div>
 		<div>
 		  <div class="input-group">
-			<label for="">7.今天是否想看了戒色文章，是否帮助了别人，为戒色事业做了贡献？是否听闻，接触了正能量的事情，是否展示了自己的正能量？</label>
+			<label for="">7.今天是否想看了养生文章，是否帮助了别人，为养生事业做了贡献？是否听闻，接触了正能量的事情，是否展示了自己的正能量？</label>
 			<input type="text" class="form-control store" id="theve" placeholder="一切能够推动社会进步，能够照亮人心，让别人主动感恩的的事情都叫正能量" />
 		  </div>				
 		   <div class="radio-group">
@@ -166,12 +166,12 @@
  	 		  <input type="radio" name="theve-radio" value="20">【优20分】
 			  <span>1>我帮助了有困难的人(同事,同学,家人等)，帮助别人解决了难题; </span>
 			  <span>2>我今天做的事情，解决问题非常有意义，能够帮助集体(公司，班集体)，社会提升效率，别人都会因此而记住我，感恩我。;</span>
-			  <span>3>我今天开动脑筋想出了一个可操作性很高,能帮助别人并帮助自己的戒色方法</span>
+			  <span>3>我今天开动脑筋想出了一个可操作性很高,能帮助别人并帮助自己的养生方法</span>
 			</label>	
 			<label>
 			  <input type="radio" name="theve-radio" value="10">【中10分】
 			  <span>我在戒友vip群里/论坛/贴吧/向小戒分享了好文章，并说出了推荐理由; </span>
-			  <span>2>我在戒友vip群里/论坛/贴吧 顶贴/回帖指导了普通戒友戒色;</span>
+			  <span>2>我在戒友vip群里/论坛/贴吧 顶贴/回帖指导了普通戒友养生;</span>
 			 </label>
 			<label>
 			  <input type="radio" name="theve-radio" value="3" checked>【差3分】我什么都没有做
@@ -186,7 +186,7 @@
 			</div>
 
 		</div>
-		<button type="button" class="btn btn-danger" id="control">生成戒色日报</button>
+		<button type="button" class="btn btn-danger" id="control">生成养生日报</button>
 		<span id="control2" style="display:none; color:red; ">请手动复制以下日报，然后发微信给小戒就可以。</span>
 		<div id="out">
 			
@@ -283,7 +283,7 @@
 			var tip='';
 			
 			if(score==0||score<0){ 
-				tip="评估结果:你确定你是来戒色吗？请好好填写自评并对自己负责吧";
+				tip="评估结果:你确定你是来养生吗？请好好填写自评并对自己负责吧";
 			}
 			else if(score>0&&score<40){ 
 				tip="评估结果：这个分数太低了，你的恶习并未得到一点改善, 你需要调整现在的状态，每天按照日报的内容执行，明天请加油";
@@ -292,16 +292,16 @@
 				tip="评估结果：加油吧，还差一点就到及格线了，请努力改进自己的状态，在帮助别人，解决自身问题上下功夫，每天按照日报的内容执行，明天请加油";
 			}	
 			else if(score>=60&&score<80){ 
-				tip="评估结果：今天这是一份不错的戒色成绩单，希望你每天都能保持这个状态，步步前进，稳扎稳打，恶习戒除成功指日可待";
+				tip="评估结果：今天这是一份不错的养生成绩单，希望你每天都能保持这个状态，步步前进，稳扎稳打，恶习戒除成功指日可待";
 			}	
 			else if(score>=80&&score<100){ 
-				tip="评估结果：你真的很棒，如果这个分数能以保持2周以上，你就离戒色成功不远了，小戒以你为荣，你的戒色日记经过审查后会推荐到微信的文章中去";
+				tip="评估结果：你真的很棒，如果这个分数能以保持2周以上，你就离养生成功不远了，小戒以你为荣，你的养生日记经过审查后会推荐到微信的文章中去";
 			}
 			else if(score>=100){ 
-				tip="评估结果：你简直太棒了，你已经超越了所有人，希望这是你今天真实的戒色成绩，你的戒色日记经过审查后会推荐到微信的文章中去，愿荣誉永远与你同在";
+				tip="评估结果：你简直太棒了，你已经超越了所有人，希望这是你今天真实的养生成绩，你的养生日记经过审查后会推荐到微信的文章中去，愿荣誉永远与你同在";
 			}			
 
-			$("#out").append("<div class='score'>你"+$('#form_datetime').val()+"的戒色成绩为："+score+" 分</div>");
+			$("#out").append("<div class='score'>你"+$('#form_datetime').val()+"的养生成绩为："+score+" 分</div>");
 			$("#out").append("<div class='result'>"+tip+"</div>");
 			
 			

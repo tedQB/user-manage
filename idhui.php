@@ -38,7 +38,7 @@
 
 <tr class="<?=$expiresClass?>">
 	<td class="name">微信Id：<?=$rs['name']?></td>
-	<td class="nickName">导师戒色榜单名称：<?=$rs['nickName']?></td>	
+	<td class="nickName">导师养生榜单名称：<?=$rs['nickName']?></td>	
 	<td>添加注明：小戒推荐学员</td>
 </tr>
 

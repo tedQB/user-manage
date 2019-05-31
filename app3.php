@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 	<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, user-scalable=0, width=device-width"/>
 	<meta name="format-detection" content="telephone=no"/>
-	<title>戒色榜(点击绿色条可查看vip会员保证书)</title>
+	<title>养生榜(点击绿色条可查看vip会员保证书)</title>
 	<link rel="stylesheet" href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css">
 	<link charset="utf-8" rel="stylesheet" href="https://a.alipayobjects.com/arale/dialog/1.2.6/dialog.css" />	
 	<script type="text/javascript" src="https://a.alipayobjects.com/seajs/seajs/2.2.0/sea.js"></script>

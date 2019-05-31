@@ -22,7 +22,7 @@
 		<tr>
 			<td>微信Id</td>
 			<td>本人姓名</td>
-			<td>戒色榜姓名</td>
+			<td>养生榜姓名</td>
 			<td>身高</td>
 			<td>体重</td>
 			<td>上学or工作</td>

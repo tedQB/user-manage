@@ -51,10 +51,10 @@
 			<td style="width:120px">微信识别码</td>
 			<td style="width:140px">微信id</td>
 			<td style="width:50px">发送方法</td>
-			<td style="width:180px">戒色榜姓名</td>
-			<td>戒色时间</td>
+			<td style="width:180px">养生榜姓名</td>
+			<td>养生时间</td>
 			<td>录入时间</td>
-			<td>戒色到期时间</td>
+			<td>养生到期时间</td>
 			<td>剩余天数</td>
 			<td>所处的状态</td>
 			<td>榜单所在区域</td>
@@ -175,7 +175,7 @@
 
   }
   $persons = $db->query("SELECT * FROM bang where leftTime>0 ORDER BY id desc");
-//逻辑 从昨天到过去7天，如果没有汇报数据，把戒色榜单和群排行隐藏掉
+//逻辑 从昨天到过去7天，如果没有汇报数据，把养生榜单和群排行隐藏掉
 //隐藏掉之后，如果今天汇报了，立即生效，明天自动回复，还是立刻恢复呢？
 //新人120天，30天，1,2，如果没有汇报，必须过7个自然日才有判定的逻辑。
 foreach ($persons as $key => $rs) {
@@ -349,7 +349,7 @@ foreach ($persons as $key => $rs) {
 			$expiresClass='expires';
 		}				
 	}
-	if($state=='戒色养成期'){ 
+	if($state=='养生养成期'){ 
 		//$state='习惯养成期';
 	}	
 	if($rs['pojiecishu']){ 
@@ -379,10 +379,10 @@ foreach ($persons as $key => $rs) {
 		<input type="text" class="modwx" modid="<?=$rs['id']?>" />
 		<button class="cgId3">提交</button>		
 		
-	</td><!--戒色榜姓名-->
-	<td class="jieseTime"><?=$rs['jieseTime']?></td><!--戒色时间-->
+	</td><!--养生榜姓名-->
+	<td class="jieseTime"><?=$rs['jieseTime']?></td><!--养生时间-->
 	<td class="luruTime"><?=$rs['luruTime']?></td><!--录入时间-->
-	<td class="endTime"><?=$rs['endTime']?></td><!--戒色到期时间-->
+	<td class="endTime"><?=$rs['endTime']?></td><!--养生到期时间-->
 	<td class="leftTime"><?=$leftTime?></td><!--剩余天数-->
 	<td class="state"><?=$state?></td><!--所处的状态-->
 	<td class="groups"><?=$groups?></td><!--榜单所在区域-->
@@ -578,7 +578,7 @@ foreach ($persons as $key => $rs) {
 				
 				})
 	
-			/*更改戒色榜姓名*/
+			/*更改养生榜姓名*/
 				$('.cgId3').click(function(){ 
 					var elem=$(this).prev();
 					$.post("nicknamechange.php",{
@@ -622,7 +622,7 @@ foreach ($persons as $key => $rs) {
 					})			
 				})					
 
-				/*是否显示在戒色榜单上*/
+				/*是否显示在养生榜单上*/
 				$('.isShowOrNot').click(function(){ 
 					var elem=$(this);
 					var state;
@@ -634,7 +634,7 @@ foreach ($persons as $key => $rs) {
 						elem.removeClass('btn-danger');
 						elem.addClass('btn-default');
 
-						state=0;//状态为0, 表示显示在戒色榜单上
+						state=0;//状态为0, 表示显示在养生榜单上
 					}
 					
 					$.post("isShowState.php",{
@@ -660,7 +660,7 @@ foreach ($persons as $key => $rs) {
 					}else{ 
 						elem.removeClass('btn-danger');
 						elem.addClass('btn-default');
-						state=0;//状态为0, 表示显示在戒色榜单上
+						state=0;//状态为0, 表示显示在养生榜单上
 					}
 					
 					$.post("isSexState.php",{

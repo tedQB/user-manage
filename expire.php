@@ -39,10 +39,10 @@
 			<td style="width:230px">微信Id</td>
 			<td>本人姓名</td>
 			<td style="width:50px">是否为Id会成员</td>
-			<td>戒色榜姓名</td>
-			<td>戒色时间</td>
+			<td>养生榜姓名</td>
+			<td>养生时间</td>
 			<td>录入时间</td>
-			<td>戒色到期时间</td>
+			<td>养生到期时间</td>
 			<td>剩余天数</td>
 			<td>所处的状态</td>
 			<td>榜单所在区域</td>
@@ -226,7 +226,7 @@ foreach ($persons as $key => $rs) {
 			}
 		}		
 	}
-	if($state=='戒色养成期'){ 
+	if($state=='养生养成期'){ 
 		//$state='习惯养成期';
 	}	
 	if($rs['pojiecishu']){ 
