@@ -1,6 +1,6 @@
 # About
 
-服务于自己产品的会员管理信息后台，力求简单高效
+服务于产品的会员管理信息后台，力求简单高效
 
 
 # 说明
@@ -27,7 +27,7 @@ php + mysql + seajs + aralejs + es5 + bootstrap
 
 
 ```
-git clone git@github.com:tedQB/trading-evil-collect.git  
+git clone git@github.com:tedQB/user-manage.git 
 
 mac 可使用 MAMP PRO 进行预览
 
